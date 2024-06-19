@@ -6,7 +6,7 @@ The following exercise is designed to let you show some of your coding skills, b
  
 While we like functioning code to look at, it is acceptable to have detailed pseudocode.
 
-Our goal here is not to criticize or condemn your work, but to get a sense of how you think and create, so 
+Our goal here is not to criticize or condemn your work, but to get a sense of how you think and create 
  
 ** Scenario **
  
